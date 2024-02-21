@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jasurbek701
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Django Rest framework
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 jasurbek_career@mail.ru
+- 📫 jasurbek3663@gmail.com
 
 <!---
 Jasurbek701/Jasurbek701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
