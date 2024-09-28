@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jasurbek701
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- Graduate student of Brunel Universty London
 - 📫 jasurbek3663@gmail.com
 
 <!---
